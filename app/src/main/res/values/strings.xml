@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">bolos</string>
+    <string name="img">imagem bolo</string>
+    <string name="propaganda1">Seu dia mais doce,\nem um clique.</string>
+    <string name="propaganda2">Peça já seu bolo!</string>
+    <string name="btn1">Ver Produtos</string>
+    <string name="category">Categoria</string>
+    <string name="popular">Pedidos Populares</string>
+    <string name="all">Ver todos</string>
+    <string name="explorer">Explorar</string>
+    <string name="carrinho">Carrinho</string>
+    <string name="order">Meus Pedidos</string>
+    <string name="profile">Perfil</string>
+    <string name="wishlist">Like</string>
+    <string name="tamanho_do_bolo">Tamanho do Bolo</string>
+    <string name="LoremIpsum">Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex. Adipiscing elit quisque faucibus ex sapien vitae pellentesque.</string>
+</resources>

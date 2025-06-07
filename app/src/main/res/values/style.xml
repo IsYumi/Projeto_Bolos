@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="propaganda1">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">37sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="propaganda2">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">37sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="btn1" parent="Widget.AppCompat.Button">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:background">@drawable/btn_style</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="backgroundTint">@null</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="category">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/brown3</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="popular">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/brown3</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="all">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/brown3</item>
+    </style>
+
+    <style name="explorer">
+        <item name="android:textSize">10sp</item>
+        <item name="android:layout_marginTop">3dp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+</resources>
